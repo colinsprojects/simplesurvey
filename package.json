@@ -18,7 +18,7 @@
     "vue-router": "^3.2.0",
     "vue-select-image": "^1.7.0",
     "vuefire": "^2.2.2",
-    "vuetify": "^2.2.33"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
